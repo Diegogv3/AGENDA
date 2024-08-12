@@ -1,4 +1,4 @@
-
+banana = 2;
 
 // Executa a função quando o DOM estiver totalmente carregado
 document.addEventListener('DOMContentLoaded', () => {
