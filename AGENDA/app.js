@@ -1,5 +1,6 @@
 banana = 2;
 mamao = 2222;
+banana = 2131231;
 
 // Executa a função quando o DOM estiver totalmente carregado
 document.addEventListener('DOMContentLoaded', () => {
